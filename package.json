@@ -11,8 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@swtc/proxy": "^1.0.9",
-    "koa2-cors": "^2.0.6"
+    "@swtc/proxy": "^1.0.9"
   },
   "devDependencies": {
     "jest": "^24.9.0",
