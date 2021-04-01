@@ -5,7 +5,6 @@ exports.configUtils = {
   ],
   //获取最优节点
   getBestNode: function () {
-    let index = 0
     let list = [
       {
         "ogc_fid": 22,
